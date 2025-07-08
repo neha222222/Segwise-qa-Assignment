@@ -105,11 +105,8 @@ Due to the forced onboarding flow, comprehensive testing of the following featur
 
 ## Next Steps
 
-1. Request access to demo/test mode or sample data for comprehensive dashboard testing
+1. request access to demo/test mode or sample data for comprehensive dashboard testing
 2. Obtain product videos mentioned in assignment for better feature understanding
 3. Complete automation script testing with available functionality
-4. Expand regression checklist once full dashboard access is available
+4. expand regression checklist once full dashboard access is available
 
----
-
-*This report will be updated as additional testing access becomes available.*
